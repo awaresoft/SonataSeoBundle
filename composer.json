@@ -1,5 +1,5 @@
 {
-    "name": "awaresoft/SonataSeoBundle",
+    "name": "awaresoft/sonata-seo-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Awaresoft SonataSeoBundle",
     "require": {
